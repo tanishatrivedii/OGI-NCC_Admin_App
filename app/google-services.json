@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221871439013",
+    "project_id": "ogi-ncc-admin",
+    "storage_bucket": "ogi-ncc-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221871439013:android:66829e41d654ac3117214c",
+        "android_client_info": {
+          "package_name": "com.example.oginccadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221871439013-bmh3k1ckhsjrr9u170q6lmjjorjj9j5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqMN63Mk53pN_3jdRWGPdaeN4lkxmo5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221871439013-bmh3k1ckhsjrr9u170q6lmjjorjj9j5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
